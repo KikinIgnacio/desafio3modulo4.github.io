@@ -1,0 +1,10 @@
+.contenedor-navegacion{
+    width: 100%;
+    height: 5rem;
+    background-color: burlywood;
+}
+
+.titulo{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

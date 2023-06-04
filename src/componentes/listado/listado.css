@@ -1,0 +1,13 @@
+.contenedor-listado{
+    background-color: crimson;
+    color: black;
+}
+
+.contenedor-listado th{
+    background-color: darkkhaki;
+}
+
+.contenedor-listado td{
+    background-color: cornsilk;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
